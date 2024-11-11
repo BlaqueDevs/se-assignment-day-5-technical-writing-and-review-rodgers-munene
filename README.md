@@ -3,10 +3,12 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience's expertise level is crucial because it determines the complexity and depth of your explanations.
+
 For tech experts:
   - Use industry-specific jargon and technical terms.
   - Provide detailed technical explanations and in-depth analysis.
   - Assume a higher level of prior knowledge and experience.
+    
 For regular folks:
   - Use plain language and avoid technical jargon.
   - Focus on practical implications and benefits rather than technical details.
